@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+tqdm
+matplotlib
+streamlit
+plotly
+pymupdf
+python-docx

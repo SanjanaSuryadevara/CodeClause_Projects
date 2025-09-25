@@ -1,0 +1,17 @@
+{
+  "labels": [
+    "Openness",
+    "Conscientiousness",
+    "Extraversion",
+    "Agreeableness",
+    "Neuroticism"
+  ],
+  "vectorizer": "tfidf",
+  "model": "ridge_multioutput_lsqr",
+  "note": "Trained on weak labels from lexicon",
+  "files": [
+    "tfidf_b5.pkl",
+    "bigfive_ridge.pkl",
+    "label_minmax.pkl"
+  ]
+}
